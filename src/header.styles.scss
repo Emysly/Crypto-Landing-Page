@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text|Roboto&display=swap');
+
+
+.header {
+  height: 30vh;
+  background-color: blue;
+  
+}
+
+.link {
+  margin-left: auto;
+  margin-right: 4rem;
+  
+}
+
+.nav-link {
+  color: white !important;
+  margin-right: 2rem;
+}
+
+.nav-link:hover {
+  color: orange !important;
+}
+
+// .icon{
+//   display: flex;
+//   justify-content: flex-end;
+// }
+
+// .bell {
+//   color: white;
+//   padding-right: 20px;
+//   padding-top: 20px;
+//   font-size: 30px;
+// }
+
+// .header-items {
+//   display: flex;
+//   justify-content: flex-start;
+
+  
+// }
+
+// .list-group {
+//   display: flex;
+//   justify-content: flex-start;
+//   flex-direction: row;
+ 
+
+//   // & li {
+//   //   font-size: 20px;
+//   //   padding-right: -150px;
+//   //   list-style-type: none;
+//   //   color: white;
+//   //   padding-top: 20px;
+    
+
+//   //   &:first-child {
+//   //     padding-left: 150px;
+//   //   }
+//   // }
+// }
+// .links {
+// padding-top: 2rem;
+
+//   & a {
+//   text-decoration: none;
+//   font-size: 1.2rem;
+//   color: white;
+//   padding: 2rem 2rem 0 0;
+//   font-family: roboto;
+
+//     &:first-child {
+//       padding-left: 4rem;
+//     }
+//   }
+// }
+
+// .login {
+//   background-color: transparent;
+//   border: none;
+//   color: white;
+//   font-weight: 500;
+//   font-size: 20px;
+// }
+
